@@ -40,3 +40,6 @@ The project is presented using source code and anonymized/sample data where nece
 ## Project Purpose
 
 This project was developed as part of a software and data analysis internship to gain practical experience in VBA programming, data validation, Excel automation, purchasing processes, and application development.
+## Application Screenshot
+
+![Purchasing Application](purchase-form.png)
